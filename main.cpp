@@ -1,6 +1,6 @@
 /*
 	Chase Deiter
-	C++ Semester Year
+	C++ Fall 2023
 	Due: 9/15/2023
 	Lab 1
 
@@ -13,3 +13,12 @@ you to download a project, compile and run that project, and to upload your own 
 meet the goals, you will get the points for this lab. Follow the directions in this lab and complete
 the tasks. If you have questions, please ask.
 */
+
+#include <iostream>
+
+int main()
+{
+	std::cout << "Hello World!";
+	std::cout << "powder blue?";
+	return 0;
+}
