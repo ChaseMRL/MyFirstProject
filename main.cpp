@@ -19,6 +19,6 @@ the tasks. If you have questions, please ask.
 int main()
 {
 	std::cout << "Hello World!";
-	std::cout << "powder blue?";
+	std::cout << "powder blue";
 	return 0;
 }
